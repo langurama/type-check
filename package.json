@@ -1,6 +1,6 @@
 {
     "name": "@langurama/type-check",
-    "version": "1.0.0-rc1",
+    "version": "1.0.0-rc2",
     "description": "Retardedly basic type checking for Node.js and the browser.",
     "author": "Karl Morrison <karl@langurama.com>",
     "license": "MIT",
