@@ -1,0 +1,5 @@
+.ignore/
+coverage/
+dist/
+example/
+node_modules/

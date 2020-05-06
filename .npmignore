@@ -1,0 +1,9 @@
+!node_modules/
+.*/
+coverage/
+example/
+src/
+test/
+_*/
+*.json
+*type-check*.tgz

@@ -1,0 +1,5 @@
+.ignore/
+coverage/
+dist/
+node_modules/
+test/.tmp/
