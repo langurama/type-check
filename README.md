@@ -1,6 +1,6 @@
 # @langurama/type-check
 
-[![Build](https://img.shields.io/github/workflow/status/langurama/type-check/Langurama%20Type%20Check?style=for-the-badge)](https://github.com/langurama/type-check/actions?query=workflow%3A%22Langurama+Log%22)
+[![Build](https://img.shields.io/github/workflow/status/langurama/type-check/Langurama%20Type%20Check?style=for-the-badge)](https://github.com/langurama/type-check/actions?query=workflow%3A%22Langurama+Type+Check%22)
 [![Coverage](https://img.shields.io/codecov/c/github/langurama/type-check?style=for-the-badge)](https://codecov.io/gh/langurama/type-check/branch/master)
 [![Version](https://img.shields.io/npm/v/@langurama/type-check.svg?style=for-the-badge)](https://www.npmjs.com/package/@langurama/type-check)
 [![License](https://img.shields.io/npm/l/@langurama/type-check.svg?style=for-the-badge)](https://github.com/langurama/type-check/blob/master/LICENSE)
