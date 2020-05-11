@@ -1,5 +1,5 @@
 declare module '@langurama/type-check' {
-    export default interface LanguramaTypeCheck {
+    export default {
         array: (object: any) => boolean;
         asyncFunction: (object: any) => boolean;
         bigint: (object: any) => boolean;
