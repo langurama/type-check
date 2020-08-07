@@ -1,3 +1,5 @@
+_Deprecated, please use https://github.com/langurama/checker instead._
+
 # @langurama/type-check
 
 [![Build](https://img.shields.io/github/workflow/status/langurama/type-check/Langurama%20Type%20Check?style=for-the-badge)](https://github.com/langurama/type-check/actions?query=workflow%3A%22Langurama+Type+Check%22)
